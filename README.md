@@ -1,3 +1,3 @@
 # TurtleArtSVGConverter
-# Does not currently import the files from folder
-# does have working export for SVG images.
+
+Scans the `art` directory for all .py files and calls the `draw()` function in each one to write an SVG file in the `out` folder.

@@ -1,8 +1,8 @@
 """
 All-Student Turtle Art SVG Generator
-Scans the 'art' directory for all python files and 
-calls the draw() function in each one so it writes to an SVG file in the 'out' folder.
-
+Scans the `art` directory for all .py files and calls the
+`draw()` function in each one to write an SVG file in
+the `out` folder.
 """
 
 #imports
